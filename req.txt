@@ -1,0 +1,6 @@
+future==0.18.2
+ifaddr==0.1.7
+pypiwin32==223
+pywin32==302
+SpeechRecognition==3.8.1
+yeelight==0.7.8
